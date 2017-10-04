@@ -27,6 +27,7 @@ Grafico
 Tabela das vendas filtradas/contidas no grafico
 
 Demo:
+
 ![alt text](https://i.imgur.com/mQ9BUcU.gif)
 
 Resposta ao enunciado:
