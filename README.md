@@ -1,6 +1,8 @@
 # pagar.me
 ### case study
 
+(desculpa isso aqui ta em python 3)
+
 ##### Exercicio 1
 
 Arquivos:
