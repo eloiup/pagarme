@@ -46,22 +46,22 @@ Como pode ser visto nos screen shoots, a base de dados do Looker nao contem os d
 
 Os cinco estados com maiores numeros de contaminacao são:
 
-Illinois 2085
-Minnesota 1827
-California 1596
-New York 1507
-Missouri 970
+Illinois 2085 <br>
+Minnesota 1827 <br>
+California 1596 <br>
+New York 1507 <br>
+Missouri 970 <br>
 
 Vale notar que a lista de estados do Looker para essa query nao contem nem o Alaska nem o Hawai (possivelmente a contagem dos estados foi 0, e por isso eles nao foram exibidos)
 
 Os estados que tiveram mais casos de Poliomielite por habitante foram: 
 (com base em https://en.wikipedia.org/wiki/List_of_U.S._states_by_historical_population decada de 40)
 
-Minnesota 6.5 a cada 10 mil  (2º em numero absoluto de casos)
-Colorado 5.8 a cada 10 mil   (10º em numero absoluto de casos)
-North Dakota 5.1 a cada 10 mil   (21º em numero absoluto de casos)
-Kansas 4.7 a cada 10 mil    (8º em numero absoluto de casos)
-Nebraska 3.9 a cada 10 mil    (13º em numero absoluto de casos)
+Minnesota 6.5 a cada 10 mil  (2º em numero absoluto de casos) <br>
+Colorado 5.8 a cada 10 mil   (10º em numero absoluto de casos) <br>
+North Dakota 5.1 a cada 10 mil   (21º em numero absoluto de casos) <br>
+Kansas 4.7 a cada 10 mil    (8º em numero absoluto de casos) <br>
+Nebraska 3.9 a cada 10 mil    (13º em numero absoluto de casos) <br>
 
 ##### Exercicio 3
 
