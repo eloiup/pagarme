@@ -19,8 +19,14 @@ Exemplos de codigo de extração de dados do banco e aplicação.
 dashboard.py:
 
 Dashboard interativo. Hosteado localmente. Se feito numa ec2 pode-se liberar a porta para acesso por terceiros.
-Output deste dash:
+Output do dash:
 
+Filtros de agentes / contratos
+Filtros de vendas acumuladas / diarias
+Grafico
+Tabela das vendas filtradas/contidas no grafico
+
+Demo:
 ![alt text](https://i.imgur.com/mQ9BUcU.gif)
 
 Resposta ao enunciado:
