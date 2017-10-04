@@ -52,7 +52,7 @@ California 1596 <br>
 New York 1507 <br>
 Missouri 970 <br>
 
-Vale notar que a lista de estados do Looker para essa query nao contem nem o Alaska nem o Hawai (possivelmente a contagem dos estados foi 0, e por isso eles nao foram exibidos)
+Vale notar que a lista de estados do Looker para essa query nao contem nem o Alaska nem o Hawai (ambos viraram estados americanos apenas em 1959)
 
 Os estados que tiveram mais casos de Poliomielite por habitante foram: 
 (com base em https://en.wikipedia.org/wiki/List_of_U.S._states_by_historical_population decada de 40)
