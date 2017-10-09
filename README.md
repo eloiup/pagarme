@@ -63,6 +63,18 @@ North Dakota 5.1 a cada 10 mil   (21º em numero absoluto de casos) <br>
 Kansas 4.7 a cada 10 mil    (8º em numero absoluto de casos) <br>
 Nebraska 3.9 a cada 10 mil    (13º em numero absoluto de casos) <br>
 
+<br>
+
+Abaixo temos um mapa dos EUA com os 5 estados com maior numero absoluto, claramente nao ha tendencia regional:
+
+![alt text](https://i.imgur.com/ghAEwpu.png)
+
+Ja no caso das 5 maiores contagens per capita, claramente temos um agrupamento na regiao central:
+
+![alt text](https://i.imgur.com/LJVe8lF.png)
+
+O que sugere que Polio era um problema regional. Uma analise mais aprofundada seria um Choropleth map da regiao.
+
 ##### Exercicio 3
 
 Aparentemente a plataforma tem a capacidade de ser conectada a banco de dados, facilitando a construcao de queries e visualizacao de dados (construção de dashboards).
